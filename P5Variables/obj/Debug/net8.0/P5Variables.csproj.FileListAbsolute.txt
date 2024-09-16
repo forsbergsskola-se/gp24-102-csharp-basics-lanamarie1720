@@ -1,0 +1,15 @@
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/bin/Debug/net8.0/P5Variables
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/bin/Debug/net8.0/P5Variables.deps.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/bin/Debug/net8.0/P5Variables.runtimeconfig.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/bin/Debug/net8.0/P5Variables.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/bin/Debug/net8.0/P5Variables.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfoInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.AssemblyInfo.cs
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.csproj.CoreCompileInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.sourcelink.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/refint/P5Variables.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/P5Variables.genruntimeconfig.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P5Variables/obj/Debug/net8.0/ref/P5Variables.dll
