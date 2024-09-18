@@ -1,0 +1,15 @@
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.deps.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.runtimeconfig.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/bin/Debug/net8.0/P2CodeExecution.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.AssemblyInfoInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.AssemblyInfo.cs
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.csproj.CoreCompileInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.sourcelink.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/refint/P2CodeExecution.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/P2CodeExecution.genruntimeconfig.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P2CodeExecution/obj/Debug/net8.0/ref/P2CodeExecution.dll

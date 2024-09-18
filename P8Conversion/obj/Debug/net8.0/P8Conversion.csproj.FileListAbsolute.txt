@@ -1,0 +1,15 @@
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.AssemblyInfoInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.AssemblyInfo.cs
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.csproj.CoreCompileInputs.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.sourcelink.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/bin/Debug/net8.0/P8Conversion
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/bin/Debug/net8.0/P8Conversion.deps.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/bin/Debug/net8.0/P8Conversion.runtimeconfig.json
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/bin/Debug/net8.0/P8Conversion.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/bin/Debug/net8.0/P8Conversion.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/refint/P8Conversion.dll
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.pdb
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/P8Conversion.genruntimeconfig.cache
+/Users/lanabro/Projects/gp24-102-csharp-basics-lanamarie1720/P8Conversion/obj/Debug/net8.0/ref/P8Conversion.dll
